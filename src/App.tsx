@@ -9,7 +9,7 @@ const App: React.FC = () => {
     
     useEffect(() => {
         const fetchArticles = async () => {
-            const response = await fetch('/data/articles.json');
+            const response = await fetch(process.env.PUBLIC_URL + '/data/articles.json');
             const data = await response.json();
             setArticles(data);
         };

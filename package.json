@@ -1,0 +1,31 @@
+{
+  "name": "etwinning-knowledge-base",
+  "version": "1.0.0",
+  "description": "A simple knowledge base application with articles and search functionality, made for eTwinning.",
+  "main": "src/App.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.74",
+    "@types/react-dom": "^18.2.19",
+    "gh-pages": "^6.3.0",
+    "typescript": "^4.9.5"
+  },
+  "keywords": [
+    "knowledge base",
+    "articles",
+    "search",
+    "etwinning"
+  ],
+  "author": "eTwinning KB Team",
+  "license": "MIT"
+}

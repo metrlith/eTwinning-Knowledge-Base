@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to the Knowledge Base",
+        "content": "A knowledge base is a centralized repository for information. It can be used to store and retrieve knowledge in various formats.",
+        "author": "eTwinning KB Team"
+    },
+    {
+        "id": 2,
+        "title": "What are Web 2.0 tools?",
+        "content": "Web 2.0 tools are online platforms that facilitate interactive information sharing and collaboration. Examples include wikis, blogs, and social media. Examples of Web 2.0 tools are: Google Docs, WordPress, Kahoot, YouTube, Canva, Slack, and many more.",
+        "author": "eTwinning KB Team"
+    },
+    {
+        "id": 3,
+        "title": "Understanding the eTwinning TwinSpace Homepage",
+        "content": "The homepage of an eTwinning TwinSpace serves as the central hub for a collaborative project between schools and educators across Europe (and some neighboring countries). It's the starting point for all project-related activities and information sharing.",
+        "author": "eTwinning KB Team"
+    },
+    {
+        "id": 4,
+        "title": "Using the Pages Feature in eTwinning TwinSpace",
+        "content": "The Pages feature in an eTwinning TwinSpace is one of the most important tools for organizing and presenting the collaborative work of the project. It functions like a website builder, allowing teachers and students to create structured, multimedia-rich content to showcase their activities, outcomes, and progress.",
+        "author": "eTwinning KB Team"
+    },
+    {
+        "id": 5,
+        "title": "Understanding the Materials Page in eTwinning TwinSpace",
+        "content": "The Materials page of a TwinSpace in eTwinning is a central storage area where project participants can upload, organize, and access files related to their collaborative work. It serves as a repository for all project-related documents, resources, and materials, making it easier for team members to find and share important information.",
+        "author": "eTwinning KB Team"
+    },
+    {
+        "id": 6,
+        "title": "Using the Forum Feature in eTwinning TwinSpace",
+        "content": "The Forum feature in an eTwinning TwinSpace is a powerful tool for facilitating communication and discussion among project participants. It allows teachers and students to engage in conversations, share ideas, ask questions, and provide feedback in a structured and organized manner.",
+        "author": "eTwinning KB Team"
+    },
+    {
+        "id": 7,
+        "title": "Using the Members Feature in eTwinning TwinSpace",
+        "content": "The Members feature in an eTwinning TwinSpace is a crucial component for managing and interacting with the participants of a collaborative project. It provides a platform for teachers and students to connect, communicate, and collaborate effectively.",
+        "author": "eTwinning KB Team"
+    }
+]

@@ -7,7 +7,9 @@ For known issues, view the [Issues](https://github.com/metrlith/eTwinning-Knowle
 
 # eTwinning Knowledge Base
 
-A simple knowledge base application with articles and search functionality, made for eTwinning by an enthusiastic student. This project is built with React and uses a JSON file to store articles. Simple, isn't it?
+A simple knowledge base application for the eTwinning project by the European Union. The project can be used by everyone on the platform, regardless of the Twinspace.
+
+It's made using React and Node.js, and the articles are stored in a JSON file.
 
 ## Features
 
@@ -99,8 +101,11 @@ Articles are stored in [`public/data/articles.json`](public/data/articles.json).
   "author": "Author Name"
 }
 ```
-
-> When you are adding new articles, make sure to follow this structure. Add a new object for each article, incrementing the `id` field for each new entry.
+Values:
+- `id`: the ID for the article to be listed upon searching, and for storing purposes. Please proceed sequentially when determining your ID for the article.
+- `title`: the title of the article to be seen in the mainpage.
+- `content`: the main content of the article. MUST be written in a single line! The code is written in a way that it will auto-parse it into readable sections.
+- `author`: the author of the article. Will be shown at the end of the article.
 
 ## Contributing
 

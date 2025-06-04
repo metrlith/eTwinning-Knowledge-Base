@@ -1,6 +1,13 @@
+# NOTE (As of 04/06/2025)
+
+This project is not complete yet! The website you will be viewing is the beta release.
+
+For planned changes, go to [the Roadmap](ROADMAP.md).
+For known issues, view the [Issues](https://github.com/metrlith/eTwinning-Knowledge-Base/issues) page.
+
 # eTwinning Knowledge Base
 
-A simple knowledge base application with articles and search functionality, made for eTwinning by an enthusiastic student. This project is built with React and uses a JSON file to store articles.
+A simple knowledge base application with articles and search functionality, made for eTwinning by an enthusiastic student. This project is built with React and uses a JSON file to store articles. Simple, isn't it?
 
 ## Features
 

@@ -11,6 +11,8 @@ Avrupa Birliği'nin eTwinning projesi için basit bir bilgi tabanı uygulaması.
 
 Proje, React ve Node.js kullanılarak yapılmıştır. Maddeler, bir JSON dosyasında saklanır.
 
+Bilgi Tabanı'na [buradan](https://metrlith.github.io/eTwinning-Knowledge-Base/) erişebilirsiniz.
+
 ## Özellikler
 
 - Maddeleri listeleyip görüntüleyin

@@ -30,7 +30,7 @@ Proje, React ve Node.js kullanılarak yapılmıştır. Maddeler, bir JSON dosyas
 
 1. Depoyu klonlayın:
 
-Depoyu klonlamak için, Git yüklediğinizden emin olun. Sonra, bir konsol açın ve şu komutu yazın:
+Depoyu klonlamak için, Git yüklediğinizden emin olun. Sonra, bir konsol açın ve sırayla şu komutları yazın:
 
    ```bash
    git clone https://github.com/metrlith/eTwinning-Knowledge-Base.git

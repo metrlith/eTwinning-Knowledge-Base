@@ -13,6 +13,8 @@ A simple knowledge base application for the European Union's eTwinning project. 
 
 The project is built using React and Node.js. The entries are stored in a JSON file.
 
+You can access the KB [here](https://metrlith.github.io/eTwinning-Knowledge-Base/).
+
 ## Features
 
 - View and list entries
